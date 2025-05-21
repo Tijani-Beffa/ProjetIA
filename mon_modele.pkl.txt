@@ -1,2 +1,1 @@
-import joblib
-joblib.dump(model, 'mon_modele.pkl')
+
